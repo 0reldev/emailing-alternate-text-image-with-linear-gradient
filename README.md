@@ -9,43 +9,48 @@ Based on a template given on [Cerberus](https://tedgoas.github.io/Cerberus/) web
 
 This HTML file has been has been successfully tested on [testi.at](https://testi.at/) website with the following webclients:
 
-Desktop Client:
-- Outlook 2019
-- Office 365 (Win)
-- Outlook 2010
-
 Mobile:
 - iPhone XS - Gmail
 - iPhone 11 iOS 13
 - iPhone 7 iOS 11
-- Android 9 - Gmail
 - Android 8 - Gmail
 - Android 7 - Gmail
 
 Webmail:
 - Gmail - Chrome
 - GSuite - Chrome
+
+
+
+/!\ The linear gradient doesn't work for the following webclients below, but the structure works:
+
+Desktop Client:
+- Outlook 2019
+- Office 365 (Win 10)
+- Outlook 2010
+
+Webmail:
 - Yahoo - Chrome
 - Outlook - Chrome
 
 
 ### Desktop renders
 
-![screen capture](https://github.com/0reldev/emailin-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/desktop-1.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/desktop-1.png)
 
-![screen capture](https://github.com/0reldev/emailin-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/desktop-2.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/desktop-2.png)
 
 
 ### Mobile renders
 
-![screen capture](https://github.com/0reldev/emailin-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/mobile-1.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/mobile-1.png)
 
-![screen capture](https://github.com/0reldev/emailin-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/mobile-2.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/mobile-2.png)
 
-![screen capture](https://github.com/0reldev/emailin-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/mobile-3.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/mobile-3.png)
 
-![screen capture](https://github.com/0reldev/emailin-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/mobile-4.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/mobile-4.png)
 
-![screen capture](https://github.com/0reldev/emailin-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/mobile-5.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/mobile-5.png)
 
-![screen capture](https://github.com/0reldev/emailin-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/mobile-6.png)
+![screen capture](https://github.com/0reldev/emailing-alternate-text-image-with-linear-gradient/blob/dev/screen-captures/mobile-6.png)
